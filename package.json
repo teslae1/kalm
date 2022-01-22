@@ -3,6 +3,21 @@
     "displayName": "kalm",
     "description": "Code color theme by Karl Mogensen",
     "version": "0.0.1",
+    "publisher": "KarlMogensen",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/teslae1/kalm"
+    },
+    "keywords": [
+        "theme",
+        "karlmogensen",
+        "dark theme",
+        "green theme",
+        "color",
+        "color theme",
+        "Jonathan Blow",
+        "kalm"
+    ],
     "engines": {
         "vscode": "^1.63.0"
     },
